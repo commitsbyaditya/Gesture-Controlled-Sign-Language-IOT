@@ -1,0 +1,10 @@
+opencv-python
+cvzone
+mediapipe==0.10.21
+numpy
+python-pptx
+PyPDF2
+pdf2image
+Pillow
+# Optional: For Windows PowerPoint COM automation (install if you have PowerPoint installed)
+# pywin32
