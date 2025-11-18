@@ -43,6 +43,6 @@
 4. Keep your hand visible to the webcam. Use the gesture chart above to move through slides or draw.
 5. Press `F` to toggle fullscreen, `Q` to exit.
 
-> The app shows a small cyan circle for the tracked pointer. Drawings use thinner strokes for better readability.
+
 
 ---
