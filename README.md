@@ -28,16 +28,7 @@
 
 ---
 
-## Usage
 
-1. Save your decks (PPT/PPTX/PDF/images) inside the `Presentation` folder.
-2. Run the application:
-   ```bash
-   python main.py
-   ```
-3. Enter the file number or name when prompted. Press Enter to use raw images from the folder instead.
-4. Keep your hand visible to the webcam. Use the gesture chart above to move through slides or draw.
-5. Press `F` to toggle fullscreen, `Q` to exit.
 
 
 
